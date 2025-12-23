@@ -7,10 +7,10 @@ A comprehensive, Material 3-based Android application designed for efficient not
 ## 🚀 Key Features
 
 ### 📝 Note Management (CRUD)
-- **Create**: Add new study notes instantly through a modern, outlined Material input field.
-- **Read**: View all your saved notes in an organized, scrollable list with smooth animations.
-- **Update**: Tap on any existing note to modify its content. The UI intelligently switches to "Edit Mode."
-- **Delete**: Remove notes with a dedicated delete button. Includes a confirmation dialog to prevent accidental deletions.
+- **Create**: Add new notes easily using a simple input field.
+- **Read**: View all saved notes in a clean, scrollable list.
+- **Update**: Tap a note to edit its content.
+- **Delete**: Delete notes safely with a confirmation message.
 
 ### 🧠 Interactive Quiz System
 - **Multiple Choice**: Test your knowledge with dynamically generated questions and options.
